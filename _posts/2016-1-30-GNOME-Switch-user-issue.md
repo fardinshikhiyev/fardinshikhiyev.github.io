@@ -5,7 +5,7 @@ published: true
 category: Linux
 ---
 
-Hi everyone! It's my first blog post here and i'm a little excited(i mean a lot LOL). I want to give a solution to an issue which i figured out how to solve in GNOME 3.18. The problem is, when i tried to switch user in GNOME, gdm was freezing and screen was turning into black so i couldn't do anything and lose all my work. The only option was to rebooting. If this affects you too, try the following solution.
+Hi everyone! It's my first blog post here and i'm a little excited(i mean a lot LOL). I want to give a solution to an issue which i figured out how to solve in GNOME 3.18. The problem is, when i tried to switch user in GNOME, gdm was freezing and screen was turning into black so i couldn't do anything and lose all my work. The only option was rebooting. If this affects you too, try the following solution.
 
 - Open a terminal window and type 
 

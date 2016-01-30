@@ -1,7 +1,6 @@
 ---
-published: true
 layout: post
-Title: GNOME 3.18 Switch user issue fix
+published: true
 title: GNOME 3.18 Switch user issue fix
 ---
 

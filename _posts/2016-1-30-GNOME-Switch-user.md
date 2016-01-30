@@ -15,7 +15,7 @@ You can change nano to your favorite text editor. It's just the simplest one.
 
 - Then enter your password and find **`#WaylandEnable=false`** line and uncomment the line. Then save your config file(`CTRL+O` in nano) and everything is OK now! 
 
-![Final view of the config file](https://github.com/fardinux/fardinux.github.io/blob/master/_posts/Screenshot%20from%202016-01-30%2020-56-38.png)
+![Final view of the config file](https://github.com/fardinux/fardinux.github.io/blob/master/images/Screenshot-2016-01-30%2020-56-38.png)
 
 Comment below if it helped to solve your issue or not. Cheers :) 
 

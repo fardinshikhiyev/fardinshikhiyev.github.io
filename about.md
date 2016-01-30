@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi! I am a Linux newbie who is interested in programming, astrophysics and pretty much everything about science and technology. I'm also an Arch Linux user for about a year.  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shihiyev@gmail.com](mailto:shihiyev@gmail.com)

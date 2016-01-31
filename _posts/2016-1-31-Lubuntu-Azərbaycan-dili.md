@@ -23,7 +23,7 @@ görünməlidir.
 
 ![Addım 3](/images/lubuntu-az/step3.png)
 
-- Həmin bayrağın üzərinə sağ düymə ilə klikləyin və *"Keyboard Layout Handler" Settings* ilə klaviatura nizamlamarına keçin.
+- Həmin bayrağın üzərinə sağ düymə ilə klikləyin və *"Keyboard Layout Handler" Settings* ilə klaviatura nizamlamalarına keçin.
 
 ![Addım 4](/images/lubuntu-az/step4.png)
 

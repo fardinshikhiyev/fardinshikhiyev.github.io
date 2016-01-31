@@ -27,7 +27,7 @@ görünməlidir.
 
 ![Addım 4](/images/lubuntu-az/step4.png)
 
-- Açılan pəncərədə əvvəlcə *Keep system layouts* seçimi deaktiv edin, ardınca *Add* düyməsinə basaraq Azərbaycan dilini
+- Açılan pəncərədə əvvəlcə *Keep system layouts* seçimini deaktiv edin, ardınca *Add* düyməsinə basaraq Azərbaycan dilini
 əlavə edin. Əgər istəsəniz, burada *Change Layout Option* ilə klaviaturadaki dillər arasında keçid etmək üçün istifadə etmək
 istədiyiniz kombinasiyanı da seçə bilərsiniz. Windows adətlərindən xilas ola bilməyənlər üçün *Alt+Shift* seçimi mövcuddur :)
 

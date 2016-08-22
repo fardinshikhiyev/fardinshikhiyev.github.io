@@ -5,7 +5,7 @@ published: true
 category: Linux
 ---
 
-Hi everybody! It's been long since my last post. I will show a quick and simple way of speeding up your oh-my-zsh startup time.
+Hi everybody! It's been a long time since my last post. I will show a quick and simple way of speeding up your oh-my-zsh startup time.
 If you have zsh as your default shell with oh-my-zsh, then you have probably noticed that when you open a terminal window 
 it takes around 1.5 seconds for zsh to startup. And it's really annoying(time is your most precious resource, right?). So, here's a way to solve this issue.
 

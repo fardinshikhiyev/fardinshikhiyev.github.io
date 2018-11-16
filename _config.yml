@@ -6,7 +6,7 @@
 name: Fardin Shikhiyev
 
 # Short bio or description (displayed in the header)
-description: Just a random teenager from end of the western spiral arm of the galaxy.
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/8120887?v=3&s=460
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: 
-  twitter: fardinshikhiyev
+  twitter: nearsus
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: 116160466895298474222
 

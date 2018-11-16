@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: He was standing under the sun. 
 published: true

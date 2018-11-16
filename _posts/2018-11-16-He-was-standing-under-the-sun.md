@@ -4,7 +4,7 @@ title: He was standing under the sun.
 published: true
 ---
 
-({{  site.url }}https://www.thisiscolossal.com/wp-content/uploads/2015/06/interstellar-1.jpg)
+(https://www.thisiscolossal.com/wp-content/uploads/2015/06/interstellar-1.jpg)
 He was standing under the sun. Started to stare at it. Perhaps for a long time. That’s the last thing he remembers. White lines appeared, all around him. Lifting him up, moving him to places. The places were neither ordinary, nor strange to him. He has been there before. For a few times. Those lines… There was something about them. Something mysterious. 
 They suddenly dissolved into nothingness. Leaving him all alone. There was only a vast void. Once he finally started to become conscious again, an utter terror shook his entire body. In fact, he didn’t have a body, even tough he still had the sense of it. The sun disappeared. The planets? They were gone. Perhaps they have never existed in the first place. For how long he has been there? Years? Centuries? Did it even matter? There was no time. No motion. He tried to look all around him. But there was nothing.At least, nothing to make a sense of difference in his perspective. Everywhere looked the same, there was no directions. What about the life he had? His family, job, friends? There was no trace of them. All are erased. Except from his mind. He had all the memories about them, all those seemingly real sensations and shared emotions. Yet, he was all he had at that moment. I have to wait then, he thought, nothing else to do. But for how long? And for what? What can you wait for in a timeless, frozen place? One thing was clear, he had gone mad. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: He was standing under the sun.
-published: true
+published: false
 ---
 He was standing under the sun. Started to stare at it. Perhaps for a long time. That’s the last thing he remembers. White lines appeared, all around him. Lifting him up, moving him to places. The places were neither ordinary, nor strange to him. He has been there before. For a few times. Those lines… There was something about them. Something mysterious. 
 
